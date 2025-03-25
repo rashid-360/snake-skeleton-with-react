@@ -1,3 +1,5 @@
+This is a Snake game that exposes its inner workings. I implemented it by imagining the canvas as a big matrix and doing math accordingly. This is a custom implementation of Snake
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
