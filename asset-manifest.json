@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/snake-skeleton-with-react/static/css/main.e6c13ad2.css",
+    "main.js": "/snake-skeleton-with-react/static/js/main.c156c824.js",
+    "static/js/453.56f46472.chunk.js": "/snake-skeleton-with-react/static/js/453.56f46472.chunk.js",
+    "index.html": "/snake-skeleton-with-react/index.html",
+    "main.e6c13ad2.css.map": "/snake-skeleton-with-react/static/css/main.e6c13ad2.css.map",
+    "main.c156c824.js.map": "/snake-skeleton-with-react/static/js/main.c156c824.js.map",
+    "453.56f46472.chunk.js.map": "/snake-skeleton-with-react/static/js/453.56f46472.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c156c824.js"
+  ]
+}
